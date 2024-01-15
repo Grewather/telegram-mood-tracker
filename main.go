@@ -4,9 +4,9 @@ import (
 	"github.com/joho/godotenv"
 	"log"
 	"os"
-	"telegram-scheduler/commands"
-	"telegram-scheduler/database"
-	"telegram-scheduler/reminders"
+	"telegram-mood-tracker/commands"
+	"telegram-mood-tracker/database"
+	"telegram-mood-tracker/reminders"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
